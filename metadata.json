@@ -1,0 +1,8 @@
+{
+  "name": "MindMotion",
+  "description": "AI-powered neuro-rehabilitation platform with real-time posture monitoring and doctor-patient connectivity.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
